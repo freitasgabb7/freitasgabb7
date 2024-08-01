@@ -1,11 +1,12 @@
 ### E aí, tudo certo? Bem-vindo ao meu GitHub!  
 Meu nome é **Gabriel Pedroso de Freitas**  mas podem me chamar de **Zatt** se quiserem 🤝
 ***
-🌍 Tenho 29 anos e moro no RS.  
-🧑‍💻 Trabalho com logística de transporte enquanto estudo na **Alura** para me tornar um **desenvolvedor**!  
-▶️ Comecei minha jornada em uma das imersões da Alura e não parei de estudar desde então..
+Trabalho com logística de transporte 🚛  
+Estudo na **Alura** pra me tornar um **desenvolvedor** 🧑‍💻  
+Comecei em uma das imersões Alura de 2023 e não parei desde então.. ▶️  
+Pronto pra abraçar uma oportunidade e atuar na área que faz sentido pra mim (antes tarde do que nunca) 😅
 ***
-Estou aprimorando..  
+Estou aprimorando.. 🔨  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30">
 ***
