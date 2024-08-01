@@ -10,7 +10,7 @@ Estou aprimorando.. 🔨
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30">
 ***
-<img src = "banner2.gif" width = "1050px">
+<img src = "banner.gif" width = "1050px">
 
 ***
 <div>
