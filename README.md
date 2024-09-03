@@ -4,7 +4,7 @@ Meu nome é **Gabriel Pedroso de Freitas**,  mas podem me chamar de **Zatt** se 
 Trabalho com logística de transporte 🚛  
 Decidi mudar de área e estudo na **Alura** para me tornar **dev** 🧑‍💻  
 Comecei em uma das imersões Alura de 2023 e não parei desde então ▶️  
-Pronto pra abraçar uma oportunidade e atuar na área que finalmente escolhi (antes tarde do que nunca) 😅
+Pronto pra abraçar uma oportunidade e atuar na área que agrada (antes tarde do que nunca) 😅
 ***
 Estou aprimorando.. 🔨  
 
